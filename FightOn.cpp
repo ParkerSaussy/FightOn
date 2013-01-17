@@ -1,0 +1,1 @@
+cout <<"Fight On!" << endl;
